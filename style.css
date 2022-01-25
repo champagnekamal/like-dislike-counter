@@ -1,0 +1,29 @@
+*body {
+    display: flex;
+
+}
+
+.like {
+    display: flex;
+    background-color: antiquewhite;
+    align-items: center;
+   justify-content: center;
+   height: 50px;
+}
+.dislike {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    background-color: antiquewhite;
+    height: 50px;
+  
+}
+
+#input1, #input2 {
+    background-color: lightgray;
+    width: 35px;
+    margin-left: 10px;
+    border-radius: 50%;
+    text-align: center;
+}
